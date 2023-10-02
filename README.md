@@ -7,9 +7,9 @@ For this, I am using the Sheets API to authenticate and insert data in the sheet
 The frontend is used to upload the CSV file using React Dropzone 
 
 then sends it to the backend for validation 
-
+<br/>
 
 the backend sends the column names that the frontend to select column names from the user
-
+<br/>
 
 once the user selects the column name, the request is sent to the backend to connect with the sheets API create a sheet, and populate the sheet
